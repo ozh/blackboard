@@ -202,12 +202,12 @@ Credits:
             <WordsStyle name="STRING" styleID="119" fgColor="61CE3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
             <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="61CE3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="61CE3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="WORD" styleID="121" fgColor="FBDE2D" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
+            <WordsStyle name="WORD" styleID="121" fgColor="FFFF80" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="122" fgColor="D8FA3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10">$_POST $_GET $_SESSION</WordsStyle>
-            <WordsStyle name="VARIABLE" styleID="123" fgColor="F8F8F8" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="VARIABLE" styleID="123" fgColor="FF8040" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="COMMENT" styleID="124" fgColor="AEAEAE" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="COMMENTLINE" styleID="125" fgColor="AEAEAE" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="OPERATOR" styleID="127" fgColor="FBDE2D" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="OPERATOR" styleID="127" fgColor="FFFF80" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
         </LexerType>
         <LexerType name="javascript" desc="Javascript" ext="">
             <WordsStyle name="DEFAULT" styleID="41" fgColor="F8F8F8" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
@@ -734,7 +734,7 @@ Credits:
         <WidgetStyle name="Global override" styleID="0" fgColor="F8F8F8" bgColor="0C1021" fontName="Source Code Pro" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="F8F8F8" bgColor="0C1021" fontName="DejaVu Sans Mono" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="888A85" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FCE94F" bgColor="0C1021" fontName="" fontStyle="1" fontSize="10" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FCE94F" bgColor="400000" fontName="" fontStyle="3" fontSize="10" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="EF2929" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="121830" fgColor="0080C0" fontStyle="0" fontSize="" />
         <WidgetStyle name="Mark colour" styleID="0" fgColor="CC0000" bgColor="EDD400" fontStyle="0" />
