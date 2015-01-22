@@ -205,8 +205,8 @@ Credits:
             <WordsStyle name="WORD" styleID="121" fgColor="FFFF80" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="122" fgColor="D8FA3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10">$_POST $_GET $_SESSION</WordsStyle>
             <WordsStyle name="VARIABLE" styleID="123" fgColor="FF8040" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="COMMENT" styleID="124" fgColor="AEAEAE" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="AEAEAE" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT" styleID="124" fgColor="646464" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="646464" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="127" fgColor="FFFF80" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
         </LexerType>
         <LexerType name="javascript" desc="Javascript" ext="">
