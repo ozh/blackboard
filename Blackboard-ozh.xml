@@ -202,11 +202,11 @@ Credits:
             <WordsStyle name="STRING" styleID="119" fgColor="61CE3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10">the_ID the_post have_posts wp_link_pages the_content</WordsStyle>
             <WordsStyle name="STRING VARIABLE" styleID="126" fgColor="61CE3C" bgColor="0C1021" fontName="" fontStyle="1" fontSize="10" />
             <WordsStyle name="SIMPLESTRING" styleID="120" fgColor="61CE3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="WORD" styleID="121" fgColor="FFFF80" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
+            <WordsStyle name="WORD" styleID="121" fgColor="538FCE" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1">dirname defined error_log var_dump ob_get_clean </WordsStyle>
             <WordsStyle name="NUMBER" styleID="122" fgColor="D8FA3C" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10">$_POST $_GET $_SESSION</WordsStyle>
             <WordsStyle name="VARIABLE" styleID="123" fgColor="FF8040" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="COMMENT" styleID="124" fgColor="646464" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="646464" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENT" styleID="124" fgColor="798188" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
+            <WordsStyle name="COMMENTLINE" styleID="125" fgColor="798188" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="127" fgColor="FFFF80" bgColor="0C1021" fontName="" fontStyle="0" fontSize="10" />
         </LexerType>
         <LexerType name="javascript" desc="Javascript" ext="">
@@ -758,7 +758,7 @@ Credits:
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="FFFF00" fgColor="8080C0" fontStyle="0" />
         <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="FAAA3C" bgColor="FF0000" fontStyle="0" />
         <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FFCAB0" bgColor="80FF00" fontStyle="0" />
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" />
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="000000" fontStyle="0" bgColor="C0C0C0" />
         <WidgetStyle name="Inactive tabs" styleID="0" fgColor="808080" bgColor="C0C0C0" fontStyle="0" />
     </GlobalStyles>
 </NotepadPlus>
